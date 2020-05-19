@@ -1,0 +1,56 @@
+h4 {
+  font-size: xxx-large !important;
+  text-align: center;
+  font-size: 30px;
+  color: blue;
+  margin-top: 100px;
+  
+}
+input{
+  width: 80%
+}
+.btnn{
+  background-color:palevioletred;
+  border-style: double;
+}
+.col-sm-6 {
+  margin: auto;
+  margin-top: 30px;
+}
+h2{
+  color: brown;
+    font-size: x-large;
+    text-align: center;
+}
+body {
+  background-color: black!important;
+}
+
+p{
+  display: block;
+  margin-bottom: 1rem;
+  color: azure;
+  font-size: 25px;
+}
+.btn-warning {
+  width: 40px;
+  margin-left: 25px;
+}
+
+.btn-danger {
+  width: 40px;
+  margin-left: 25px;
+    margin-right: 25px;
+   
+}
+.btn-success {
+  width: 40px;
+  margin-left: 25px;
+  
+}
+h3 {
+  margin-top: 100px;
+  display: inline;
+  font-size: 23px;
+  color: brown  
+}
